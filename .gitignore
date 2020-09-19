@@ -13,3 +13,10 @@ templates
 .idea
 _DELETE_OLD_README
 bin
+
+/antbuild/*
+/build/classes/*
+/dist/*
+/Servers/*
+/build/version.properties
+.class
